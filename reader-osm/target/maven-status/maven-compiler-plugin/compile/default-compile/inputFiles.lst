@@ -1,0 +1,17 @@
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMReader.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMXMLHelper.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfBlobDecoder.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/GraphHopperOSM.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfBlobDecoderListener.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/Sink.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfFieldDecoder.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfDecoder.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMTagParser.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMTurnRelation.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfStreamSplitter.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMInputFile.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfRawBlob.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfReader.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMInput.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfBlobResult.java
+/home/balazs/Dev/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMFileHeader.java

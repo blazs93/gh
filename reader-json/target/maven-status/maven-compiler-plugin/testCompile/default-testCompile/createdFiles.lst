@@ -1,0 +1,3 @@
+com/graphhopper/json/geo/JsonFeatureCollectionTest.class
+com/graphhopper/spatialrules/SpatialRuleLookupBuilderTest.class
+com/graphhopper/storage/change/ChangeGraphHelperTest.class

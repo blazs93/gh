@@ -1,0 +1,5 @@
+com/graphhopper/RealtimeIT.class
+com/graphhopper/gtfs/fare/FareTest.class
+com/graphhopper/gtfs/fare/FareTest$1.class
+com/graphhopper/gtfs/fare/FareTest$2.class
+com/graphhopper/GraphHopperGtfsIT.class
